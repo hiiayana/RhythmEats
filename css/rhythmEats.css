@@ -1,0 +1,16 @@
+body {
+    margin: auto;  
+    background-color: black;
+}
+
+#logo {
+    text-align: center;
+    width: 10;
+    height: 15;
+}
+
+div {
+    text-align: center;
+}
+
+
