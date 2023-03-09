@@ -1,6 +1,7 @@
 body {
     margin: auto;  
     background-color: black;
+    text-align: center;
 }
 
 #logo {
@@ -10,7 +11,13 @@ body {
 }
 
 div {
-    text-align: center;
+    text-align: center;  
 }
 
-
+.btn {
+    width: 10rem;
+    height: 5rem;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;    
+}
